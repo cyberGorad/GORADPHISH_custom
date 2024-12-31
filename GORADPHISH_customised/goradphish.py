@@ -18,7 +18,7 @@ ttl.afficher_titre()
 
 config = {
     'host': 'mysql-cybergorad.alwaysdata.net',
-    'user': '393565',
+    'user': '392565',
     'password': 'tsilavina2610',
     'database': 'cybergorad_2610'
 }
